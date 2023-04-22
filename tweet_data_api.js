@@ -4210,6 +4210,34 @@ app.get('/', (req, res) => {
               "last_updated": "2023-03-14T20:34:02.965Z"
             }
           },
+          {
+            "name": "inscription-0000386479",
+            "metadata": {
+              "id": "f4faafaf844c4670c70d5e416cf799fbd88ca94e8c5f04a7c45a931a3d962a69i0",
+              "number": 386479,
+              "address": "bc1ppxy6q078wkg4yvten6zkcl2ymc49ssuppflu6w00w87x9xmptraq6ydap3",
+              "content_type": "text/plain;charset=utf-8",
+              "content_length": 243,
+              "genesis_block_height": 780076,
+              "genesis_tx_id": "f4faafaf844c4670c70d5e416cf799fbd88ca94e8c5f04a7c45a931a3d962a69",
+              "timestamp": "2023-03-10T00:04:37.000Z",
+              "last_updated": "2023-03-15T12:46:46.508Z"
+            }
+          },
+          {
+            "name": "inscription-0000386481",
+            "metadata": {
+              "id": "ed293369315e52beb2353d7b1185301265405646e35755123e8b91ce0ad2ca04i0",
+              "number": 386481,
+              "address": "bc1ppxy6q078wkg4yvten6zkcl2ymc49ssuppflu6w00w87x9xmptraq6ydap3",
+              "content_type": "text/plain;charset=utf-8",
+              "content_length": 301,
+              "genesis_block_height": 780076,
+              "genesis_tx_id": "ed293369315e52beb2353d7b1185301265405646e35755123e8b91ce0ad2ca04",
+              "timestamp": "2023-03-10T00:04:37.000Z",
+              "last_updated": "2023-03-15T12:46:48.958Z"
+            }
+          }
           
         ]
       }
