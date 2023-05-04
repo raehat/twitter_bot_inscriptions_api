@@ -5287,6 +5287,34 @@ app.get('/', (req, res) => {
               "timestamp": "2023-03-10T11:52:43.000Z",
               "last_updated": "2023-03-15T13:21:59.816Z"
             }
+          },
+           {
+            "name": "inscription-0000359055",
+            "metadata": {
+              "id": "dcf9d1d0129fd5ce767184ae6f25fff1f826e4ad2bd5b3cc7ef703478f507991i0",
+              "number": 359055,
+              "address": "bc1p2wqluq0fsp7e2jtd39r4xzx29d03tk7lvyx0ltptnq2776uudnrsrprtne",
+              "content_type": "text/plain;charset=utf-8",
+              "content_length": 247,
+              "genesis_block_height": 779977,
+              "genesis_tx_id": "dcf9d1d0129fd5ce767184ae6f25fff1f826e4ad2bd5b3cc7ef703478f507991",
+              "timestamp": "2023-03-09T06:43:41.000Z",
+              "last_updated": "2023-03-15T12:46:12.658Z"
+            }
+          },
+          {
+            "name": "inscription-0000368261",
+            "metadata": {
+              "id": "8daccbae23eefe57b86684a03e4640280c3022ac62e94c1e43e515bfd715e2f6i0",
+              "number": 368261,
+              "address": "bc1pkzggce2dh4ukeml44kdv57hnsfa7j43vdqkm2lveh2m3psrjdl5s7xa5pr",
+              "content_type": "text/plain;charset=utf-8",
+              "content_length": 227,
+              "genesis_block_height": 780023,
+              "genesis_tx_id": "8daccbae23eefe57b86684a03e4640280c3022ac62e94c1e43e515bfd715e2f6",
+              "timestamp": "2023-03-09T16:09:03.000Z",
+              "last_updated": "2023-03-15T12:46:13.492Z"
+            }
           }
           
         ]
