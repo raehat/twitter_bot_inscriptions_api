@@ -5315,7 +5315,49 @@ app.get('/', (req, res) => {
               "timestamp": "2023-03-09T16:09:03.000Z",
               "last_updated": "2023-03-15T12:46:13.492Z"
             }
-          }
+          },
+             {
+            "name": "inscription-0000396037",
+            "metadata": {
+              "id": "677563f2b7827edd64dee5739e89d069040e92eee494c9421caafc0e35f1ec92i0",
+              "number": 396037,
+              "address": "bc1ppxy6q078wkg4yvten6zkcl2ymc49ssuppflu6w00w87x9xmptraq6ydap3",
+              "content_type": "text/plain;charset=utf-8",
+              "content_length": 446,
+              "genesis_block_height": 780135,
+              "genesis_tx_id": "677563f2b7827edd64dee5739e89d069040e92eee494c9421caafc0e35f1ec92",
+              "timestamp": "2023-03-10T11:52:43.000Z",
+              "last_updated": "2023-04-01T18:49:03.205Z"
+            }
+          },
+          {
+            "name": "inscription-0000396039",
+            "metadata": {
+              "id": "1aa6c25e155d5a6fd7e2a2170eb0d396b54db62dbd85d9a79e9ec57bd36c7740i0",
+              "number": 396039,
+              "address": "bc1ppxy6q078wkg4yvten6zkcl2ymc49ssuppflu6w00w87x9xmptraq6ydap3",
+              "content_type": "text/plain;charset=utf-8",
+              "content_length": 218,
+              "genesis_block_height": 780135,
+              "genesis_tx_id": "1aa6c25e155d5a6fd7e2a2170eb0d396b54db62dbd85d9a79e9ec57bd36c7740",
+              "timestamp": "2023-03-10T11:52:43.000Z",
+              "last_updated": "2023-03-15T12:46:53.874Z"
+            }
+          },
+          {
+            "name": "inscription-0000396040",
+            "metadata": {
+              "id": "cd63ba3baffc423ce79bd97bb4a93bb97e5e917b45f0d9ed53eedd610dfd169ai0",
+              "number": 396040,
+              "address": "bc1ppxy6q078wkg4yvten6zkcl2ymc49ssuppflu6w00w87x9xmptraq6ydap3",
+              "content_type": "text/plain;charset=utf-8",
+              "content_length": 238,
+              "genesis_block_height": 780135,
+              "genesis_tx_id": "cd63ba3baffc423ce79bd97bb4a93bb97e5e917b45f0d9ed53eedd610dfd169a",
+              "timestamp": "2023-03-10T11:52:43.000Z",
+              "last_updated": "2023-04-01T18:49:02.024Z"
+            }
+          },
           
         ]
       }
